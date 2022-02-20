@@ -1,2 +1,2 @@
-# minescores.github.io
+# cybercriativo.github.io
 Web Site for Minecraft scores.
